@@ -10,11 +10,11 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 ## 🎮 Game Format
 
 ### 🧬 Drafting Phase
-- **Snake order draft** per type:
-  - Player 1 picks 1
-  - Player 2 picks 2
-  - Player 1 picks 2
-  - Player 2 picks 1
+- 🧩 **Snake order draft** per type:
+  - 1️⃣ Player 1 picks 1
+  - 2️⃣ Player 2 picks 2
+  - 3️⃣ Player 1 picks 2
+  - 4️⃣ Player 2 picks 1
 - Players draft **3 baby Pokémon** per type (no repeats across types).
 - Full draft is recorded in a shared Google Sheet.
 
@@ -27,21 +27,21 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 
 - All base Roguemon rules still apply.
 - Each type challenge is done with 3 Pokémon drafted for that type.
-- You ONLY can choose the 5 balls outside of the lab, NO SCOUTING!
-- You have to run one of the 3 Mon's you drafted if they are on the lab table or in the 5 ball selection.
-- If one of the three Mon's that your rival drafted are on the lab table you HAVE to match against it. (Unless one of your 3 Mon's are on the lab table!)
-- If your lead Pokémon faints, the attempt ends.
+- 🚫 No Scouting Allowed: You must pick from the 5 Poké Balls outside the lab only.
+- You **must run one of your 3 drafted Pokémon** if it's in the lab or 5-ball pool.
+- If your **rival’s Pokémon is on the table**, you **must match** unless one of yours is also present.
+- If your **lead faints**, the attempt is considered a **failure**.
 - Run ends after completing the Elite Four and Champion battle.
 
 ---
   
 ### 🚨 Penalty Modifiers
 
-**Add additional attempts to your total if the following conditions were true when winning a type:**
-
-- 🥋 Shell Bell Equipped: +5 attempts
-- 💪 Offensive Setup Move Used (e.g. Tail Glow, Dragon Dance): +5 attempts
-- 🔥 Pure Power or Huge Power Ability On Mons that have used a physical move during the run: +10 attempts
+| Condition                                          | Penalty  |
+|---------------------------------------------------|----------|
+| 🥋 Shell Bell Equipped                             | +5 Attempts |
+| 💪 Used Offensive Setup Move (e.g., Dragon Dance) | +5 Attempts |
+| 🔥 Pure/Huge Power + Physical Move Used           | +10 Attempts |
 
 ---
 
@@ -57,10 +57,13 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 
 ---
 
-## 📁 Resources
+<details>
+<summary><strong>📁 Resources</strong></summary>
 
-- 📝 [Draft Template Sheet](https://docs.google.com/spreadsheets/d/1G84KmMYkxTKnaFUwMx1JH2rcPc4vGFONExM2cCNFI4g/edit?usp=sharing)
-- 📈 [Scoreboard Template (Make a Copy)](https://docs.google.com/spreadsheets/d/1AbWa4WPAQiyzlvI2I5l_m0M3YqE-ZPL32wDu0jRsoHI/copy)
+- 📝 [Draft Template Sheet](https://...)
+- 📈 [Scoreboard Template (Make a Copy)](https://...)
+
+</details>
 
 ---
 
@@ -78,3 +81,5 @@ Created by: [iCrucialx](https://twitch.tv/icrucialx)
 Co-Created by: [Ceedsy](https://twitch.tv/ceedsy) 
 
 Inspired by: [Roguemon by Crozwords](https://github.com/Crozwords/Roguemon)
+
+<p align="center"><i>Roguemon Rivals is a fan-made competition format and not affiliated with Nintendo, Game Freak, or The Pokémon Company.</i></p>
