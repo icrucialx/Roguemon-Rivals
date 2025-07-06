@@ -30,7 +30,6 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 - You ONLY can choose the 5 balls outside of the lab, NO SCOUTING!
 - You have to run one of the 3 Mon's you drafted if they are on the lab table or in the 5 ball selection.
 - If one of the three Mon's that your rival drafted are on the lab table you HAVE to match against it. (Unless one of your 3 Mon's are on the lab table!)
-- Evolutions are allowed via **Roguestones** or in-game triggers.
 - If your lead Pokémon faints, the attempt ends.
 - Run ends after completing the Elite Four and Champion battle.
 
