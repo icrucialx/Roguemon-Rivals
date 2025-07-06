@@ -47,7 +47,7 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 ## 📁 Resources
 
 - 📝 [Draft Template Sheet](https://docs.google.com/spreadsheets/d/1G84KmMYkxTKnaFUwMx1JH2rcPc4vGFONExM2cCNFI4g/edit?usp=sharing)
-- 📈 Scoreboard Template – *Coming Soon!*
+- 📈 [Scoreboard Template (Make a Copy)](https://docs.google.com/spreadsheets/d/1AbWa4WPAQiyzlvI2I5l_m0M3YqE-ZPL32wDu0jRsoHI/copy)
 
 ---
 
