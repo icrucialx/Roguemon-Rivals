@@ -25,6 +25,7 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 
 ### ⚔️ Challenge Rules
 
+- All base Roguemon rules still apply.
 - Each type challenge is done with 3 Pokémon drafted for that type.
 - Evolutions are allowed via **Roguestones** or in-game triggers.
 - If your lead Pokémon faints, the attempt ends.
