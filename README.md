@@ -29,10 +29,12 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 - Evolutions are allowed via **Roguestones** or in-game triggers.
 - If your lead Pokémon faints, the attempt ends.
 - Run ends after completing the Elite Four and Champion battle.
-  
-🚨 Penalty Modifiers
 
-Add additional attempts to your total if the following conditions were true when winning a type:
+---
+  
+### 🚨 Penalty Modifiers
+
+**Add additional attempts to your total if the following conditions were true when winning a type:**
 
 - 🥋 Shell Bell Equipped: +5 attempts
 - 💪 Offensive Setup Move Used (e.g. Tail Glow, Dragon Dance): +5 attempts
