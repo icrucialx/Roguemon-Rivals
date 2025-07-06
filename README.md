@@ -31,7 +31,7 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 - You **must run one of your 3 drafted Pokémon** if it's in the lab or 5-ball pool.
 - If your **rival’s Pokémon is on the table**, you **must match** unless one of yours is also present.
 - If your **lead faints**, the attempt is considered a **failure**.
-- Run ends after completing the Elite Four and Champion battle.
+- Run ends after completing the Champion battle.
 
 ---
   
