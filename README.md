@@ -63,4 +63,5 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 
 Created by: [iCrucialx](https://twitch.tv/icrucialx)  
 Co-Created by: [Ceedsy](https://twitch.tv/ceedsy) 
+
 Inspired by: [Roguemon by Crozwords](https://github.com/Crozwords/Roguemon)
