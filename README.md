@@ -3,7 +3,7 @@
 
 ![Roguemon Rivals Banner](resources/roguemon_rivals_banner.png)
 
-Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where two players draft baby Pokémon across all 18 types and battle for supremacy. This format builds off the fan-made **Roguemon** By Crozwords, mod of FireRed/LeafGreen and brings structured 1v1 rivalry with leaderboard scoring, snake-style drafts, and type-based victories.
+Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where two players draft baby Pokémon across all 18 types and battle for supremacy. This format builds off the fan-made [**Roguemon**](https://github.com/Crozwords/Roguemon) By Crozwords, mod of FireRed/LeafGreen and brings structured 1v1 rivalry with leaderboard scoring, snake-style drafts, and type-based victories.
 
 ---
 
