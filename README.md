@@ -38,7 +38,7 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 
 - 🥋 Shell Bell Equipped: +5 attempts
 - 💪 Offensive Setup Move Used (e.g. Tail Glow, Dragon Dance): +5 attempts
-- 🔥 Pure Power or Huge Power Ability: +10 attempts
+- 🔥 Pure Power or Huge Power Ability On Mons that have used a physical move during the run: +10 attempts
 
 ---
 
