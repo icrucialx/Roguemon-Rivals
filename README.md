@@ -41,6 +41,8 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 |---------------------------------------------------|----------|
 | 🥋 Shell Bell Equipped                             | +5 Attempts |
 | 💪 Used Passive Offensive Setup Move (e.g., Dragon Dance) | +5 Attempts |
+| 💋 Draining Moves           | +5 Attempts |
+| 💋 Draining Kiss           | +7 Attempts |
 | 🔥 Pure/Huge Power + Physical Move Used           | +10 Attempts |
 
 ---
