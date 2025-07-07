@@ -52,10 +52,9 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 - Each player logs how many **attempts** it took to complete a run for each type.
 - The player with **fewer attempts wins that type** and earns **1 point**.
 - Ties (same number of attempts) are broken by:
-  1. **Fastest real-time run** (if timed)
-  2. Or simply ruled a draw (0.5 points each)
+  1. **Lowest Combine BST Total**
 
-✅ First player to win the majority of types (best of 18) wins the **Roguemon Rivals Series**.
+✅ First player to win the majority of types (best of 3 or preferred amount) wins the **Roguemon Rivals Series**.
 
 ---
 
