@@ -31,9 +31,9 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 - Each type challenge is done with 3 Pokémon drafted for that type.
 - 🚫 No Scouting Allowed: You must pick from the 5 Poké Balls outside the lab only.
 - You **must run one of your 3 drafted Pokémon** if it's in the lab or 5-ball pool.
-- If your **rival’s Pokémon is on the table**, you **must match** unless one of yours is also present.
-- If your **lead faints**, the attempt is considered a **failure**.
-- Run ends after completing the Champion battle.
+- You must choose the Pokemon on the table that gives the rival's favorite to your rival. If multiple then you must choose the pokemon that isn't your Rival's favorite.
+- If your **lead faints**, the attempt is considered a **failure** , Unless you have a revive prize.
+- A type is won after defeating the rival champion in E4 and it is impossible for your Roguemon Rival to win in fewer attempts.
 
 ---
   
