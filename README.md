@@ -27,6 +27,7 @@ Welcome to **Roguemon Rivals**, a competitive Roguelike Pokémon challenge where
 
 
 - All base Roguemon rules still apply.
+- Must be using the same version of Roguemon.
 - You must have the Roguemon Rules option set to Enforced. ![Image](resources/image.png)
 - Each type challenge is done with 3 Pokémon drafted for that type.
 - 🚫 No Scouting Allowed: You must pick from the 5 Poké Balls outside the lab only.
